@@ -14,7 +14,6 @@ function deslizarparadireita(){
 function deslizarparaesquerda(){
     leonardo.style="diplay:flex"
     bruna.style="display:none"
-     samantha.style="display:none"
     setaesquerda.style="display:none"
     setadireita.style="display:flex; margin-top=50px"
 }
